@@ -1,0 +1,20 @@
+.top{
+    color: blueviolet;
+    background-color: coral;
+    font-family: "Trirong";
+}
+
+
+.start{
+    background-color: green;
+    text-align: center;
+    font-family: "Sofia","sans-serif";
+    font-size: 20px;
+}
+
+
+.bottom{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cadetblue;
+}
+ 
